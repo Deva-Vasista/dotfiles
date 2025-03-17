@@ -1,0 +1,14 @@
+LICENSE
+README.md
+init.lua
+lazy-lock.json
+lazyvim.json
+stylua.toml
+
+lua:
+config
+plugins
+
+nvim:
+
+nvim/:
